@@ -1,2 +1,4 @@
 This is my chapter three.
 New updates
+
+Thesing same file modification from more than one places
